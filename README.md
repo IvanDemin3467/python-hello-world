@@ -10,3 +10,5 @@ python main.py
 
 Порт по умолчанию: `8000`. Можно переопределить через `PORT`.
 Любой GET-запрос возвращает `hello world`.
+
+randomstring
